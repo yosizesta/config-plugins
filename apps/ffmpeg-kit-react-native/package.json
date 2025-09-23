@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "@config-plugins/ffmpeg-kit-react-native": "*",
-    "expo": "~53",
-    "expo-splash-screen": "~0.30.7",
-    "ffmpeg-kit-react-native": "^6.0.2",
-    "react": "19.0.0",
-    "react-native": "0.79.2"
+    "expo": "~54",
+    "expo-splash-screen": "~31.0.9",
+    "react": "19.1.0",
+    "react-native": "0.81.4",
+    "ffmpeg-kit-react-native":  "https://storage.googleapis.com/zesta-live/ffmpeg-kit-react-native-6.0.8.tgz"
   },
   "private": true
 }

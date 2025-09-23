@@ -32,7 +32,6 @@
       "@config-plugins/detox",
       "@config-plugins/react-native-adjust",
       "@config-plugins/react-native-callkeep",
-      "@config-plugins/android-jsc-intl",
       "expo-localization"
     ]
   }
