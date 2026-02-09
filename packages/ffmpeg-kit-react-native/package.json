@@ -36,7 +36,7 @@
     "@types/semver": "^7.3.9"
   },
   "peerDependencies": {
-    "expo": "^53"
+    "expo": "^54"
   },
   "upstreamPackage": "ffmpeg-kit-react-native"
 }
