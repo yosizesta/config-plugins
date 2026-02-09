@@ -31,7 +31,7 @@
     "e2e"
   ],
   "peerDependencies": {
-    "expo": "^53"
+    "expo": "^54"
   },
   "dependencies": {
     "expo-build-properties": "^0.13.1"

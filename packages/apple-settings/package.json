@@ -1,6 +1,6 @@
 {
   "name": "@config-plugins/apple-settings",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "Config plugin to generate custom Apple settings UI",
   "license": "MIT",
   "main": "build/index.js",
@@ -29,15 +29,15 @@
     "expo"
   ],
   "dependencies": {
-    "@bacons/xcode": "^1.0.0-alpha.12",
-    "@expo/plist": "^0.3.4",
-    "iconv-lite": "^0.6.3",
-    "schema-utils": "^4.2.0"
+    "@bacons/xcode": "^1.0.0-alpha.29",
+    "@expo/plist": "^0.4.8",
+    "iconv-lite": "^0.7.2",
+    "schema-utils": "^4.3.3"
   },
   "peerDependencies": {
     "expo": "^54"
   },
   "devDependencies": {
-    "json-schema-to-typescript": "^13.0.2"
+    "json-schema-to-typescript": "^15.0.4"
   }
 }
